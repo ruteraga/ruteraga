@@ -1,7 +1,7 @@
 ## Hi, I'm Ganza 👋
 
-- 🥇 I’m a Computer Engineer passionate about AI </br>
-- 🌱 I’m sharpening my skills in Software Development </br>
+- 🥇 I’m a Computer Scientist passionate about many things </br>
+- 🌱 I’m always learning something new </br>
 - 👯 I’m looking to collaborate on Machine Learning Projects </br>
 - 🎯 I create data-based solutions 
 
