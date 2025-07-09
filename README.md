@@ -1,6 +1,6 @@
 ## Hi, I'm Ganza 👋
 
-- 🥇 I’m a Computer Scientist passionate about many things </br>
+- 🥇 I’m a Computer Scientist  </br>
 - 🌱 I’m always learning something new </br>
 - 👯 I’m looking to collaborate on Machine Learning Projects </br>
 - 🎯 I create data-based solutions 
