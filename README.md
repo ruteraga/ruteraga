@@ -1,4 +1,4 @@
-## Hi, I'm Ganza 👋
+## Hi, It's Ganza 👋
 
 - 🥇 I’m a Computer Scientist  </br>
 - 🌱 I’m always learning something new </br>
